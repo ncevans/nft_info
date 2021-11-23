@@ -1,0 +1,16 @@
+{
+    "name": "Solution Tech Master",
+    "attributes": [
+        {
+            "trait_type": "Level",
+            "value": "1"
+        },
+        {
+            "trait_type": "expiration date",
+            "value": "Last Forever"
+        }
+    ],
+    "media-type": "image",
+    "image": "https://solution-tech.org//wp-content//uploads//2021//11//SolTech.png"
+    
+}
